@@ -8,4 +8,4 @@ Confirmation des acquis précédents et nouveautés :
 - Dans les models, nouveauté sécurité sur la préparation des requetes SQL en vu de se protéger des injections, 
 - Sructure des views améliorée pour suivre les demandes de la librairie
 
-🎆
+🎆✨
